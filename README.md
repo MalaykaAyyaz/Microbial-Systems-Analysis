@@ -58,7 +58,7 @@ An audit of the polyextremophile *D. radiodurans* (R1) to verify the digital rep
 
 * **Insight:** Analyzed the RecA-DNA filament complex. The structural logic shows a tight, protective wrap around the DNA backbone, preventing degradation during double-strand break repair.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4684d7ab-210c-44dc-a1bd-d8b8d6b34079" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9494771b-2968-456e-9061-b4eb6602d96e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e15a49a-e89c-41e7-8405-0a0c2fa48b7b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee379fe7-8d62-4242-829e-c52041f31f18" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f41cd0f-0405-4767-88e3-b31a7372a3d4" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f74a6331-02b1-4cf4-af9a-e8ec3bd0208f" />
